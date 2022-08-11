@@ -9,5 +9,8 @@
  border-color: yellow;
   }
 h1{
-  border-color: #BBFFFF;
+  color: #BBFFFF;
+}
+h3{
+  color:green;
 }
